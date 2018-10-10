@@ -1,0 +1,1 @@
+This is a project to learn how to write golang assembly. The only math command I will be doing is add, subtract. If I can figure out how to do math with bitwise compliment, and then I'll do add only.
